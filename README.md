@@ -1,7 +1,8 @@
 <p align="center">
   <img src="assets/BlinkInsure.png" width="200"/>
 </p>
-# BlinkInsure AI 🚀
+
+## BlinkInsure AI 🚀
 BlinkInsure AI is an AI-powered parametric insurance system designed to protect Blinkit delivery partners from income loss caused by real-world disruptions.
 
 ## Problem
