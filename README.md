@@ -57,4 +57,4 @@ Here is the user interface of BlinkInsure AI:
 
 The architecture of the system is shown below:
 
-![Architecture](assets/architecture.png)
+![Architecture](assets/Architecture.png)
