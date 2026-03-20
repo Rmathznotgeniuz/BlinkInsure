@@ -45,3 +45,16 @@ React.js, Node.js, Python, Scikit-learn, PostgreSQL, Weather API, Google Maps AP
 - Expand to all gig platforms
 - Improve AI prediction accuracy
 - Real-time platform integration
+
+## UI Preview
+
+Here is the user interface of BlinkInsure AI: 
+
+![UI](assets/GUI-1.png)
+![UI](assets/GUI-2.png)
+
+## System Architecture
+
+The architecture of the system is shown below:
+
+![Architecture](assets/architecture.png)
