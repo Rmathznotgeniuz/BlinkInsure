@@ -39,4 +39,6 @@ The system detects fraud using behavioral patterns, device signals, network vali
 React.js, Node.js, Python, Scikit-learn, PostgreSQL, Weather API, Google Maps API, Razorpay Sandbox
 
 ## Future Scope
-Expand to other gig platforms, improve AI prediction, and integrate real-time delivery platform data.
+- Expand to all gig platforms
+- Improve AI prediction accuracy
+- Real-time platform integration
